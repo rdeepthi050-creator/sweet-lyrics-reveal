@@ -24,7 +24,7 @@ export default function Screen1({ onNext }) {
 
             <div className="space-y-3 relative z-10">
                 <h1 className="text-3xl font-extrabold tracking-tight text-transparent bg-clip-text bg-linear-to-br from-pink-200 via-pink-300 to-rose-200 drop-shadow-[0_2px_10px_rgba(244,114,182,0.3)] leading-tight">
-                    I have something for you...
+                    I have something for you Tannnn...
                 </h1>
                 <p className="text-pink-200/70 font-medium text-lg">
                     It will only take a moment

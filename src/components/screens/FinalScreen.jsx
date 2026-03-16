@@ -32,7 +32,7 @@ export default function FinalScreen() {
       <div className="absolute top-0 inset-x-0 h-full bg-linear-to-b from-pink-500/5 to-transparent pointer-events-none" />
 
       <h1 className="text-4xl font-black mb-3 text-transparent bg-clip-text bg-linear-to-br from-pink-200 via-purple-200 to-indigo-200 drop-shadow-[0_0_15px_rgba(236,72,153,0.5)]">
-        Forever Mine ❤️
+        Forever MY WIFEY❤️
       </h1>
       <p className="text-pink-200/80 font-medium text-lg">
         I love you so much ❤️
